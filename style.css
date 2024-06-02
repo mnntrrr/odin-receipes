@@ -1,0 +1,45 @@
+* {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    background-color: #faebd7;
+}
+
+h1 {
+    background-color: #deb887;
+    text-align: center;
+}
+
+h3 {
+    color: maroon;
+}
+
+.img {
+    text-align: center;
+}
+
+ol, ul, li {
+    background-color: #ffffff50;
+    width: 300px;
+}
+
+li {
+    font-size: 12px;
+}
+
+a {
+    background-color: #ffffff00;
+    color: black;
+}
+
+a:hover {
+    background-color: #faebd750;
+    color: maroon;
+}
+
+a:visited {
+    color: maroon;
+}
+
+.description {
+    font-size: 14px;
+    font-style: italic;
+}
